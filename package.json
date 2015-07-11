@@ -1,0 +1,15 @@
+{
+  "name": "aplicacao1",
+  "version": "1.0.0",
+  "description": "Olá mundo",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "Eu",
+  "license": "ISC",
+  "dependencies": {
+    "restify": "^3.0.3",
+    "should": "^7.0.2"
+  }
+}
