@@ -9,6 +9,7 @@
   "author": "Eu",
   "license": "ISC",
   "dependencies": {
+    "mongodb": "^2.0.36",
     "restify": "^3.0.3",
     "should": "^7.0.2"
   }
